@@ -1,2 +1,2 @@
-# Gentle Breeze
-A tiny repo with a single-page HTML that plays an MP3 located in `audio/gentlebreeze.mp3`.
+# My Media
+This repo will contain media i want to use in small projects, and which i'd like to have available on a public domain
